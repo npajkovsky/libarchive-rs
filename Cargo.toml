@@ -1,0 +1,11 @@
+[package]
+name = "libarchive-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nikola Pajkovsky <nikola@pajkovsky.cz>"]
+description = "Safe bindings for libarchive"
+repository = "https://github.com/npajkovsky/libarchive-rs.git"
+homepage = "https://github.com/npajkovsky/libarchive-rs.git"
+license = "MIT"
+
+[dependencies]
